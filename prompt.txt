@@ -1,0 +1,19 @@
+1. Why did you use a fixed-size array (MAX_SHAPES) instead of dynamic memory allocation?
+
+2. How does the Shape structure support multiple shape types using a single data structure?
+
+3. What is the purpose of the read_int() function in the program?
+
+4. How does the program handle invalid user input during menu selection or shape creation?
+
+5. What happens internally when a shape is deleted from the array?
+
+6. Why is render_canvas() called after adding, deleting, or modifying a shape?
+
+7. What is the time complexity of deleting a shape, and why?
+
+8. Why are rectangle width and height validated before adding or modifying a rectangle?
+
+9. What limitations exist in the current coordinate validation system?
+
+10. How would you implement a Save and Load feature for storing drawings in a file?
